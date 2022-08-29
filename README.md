@@ -3,7 +3,7 @@
 **OBJECTIVE**
 
 
-The objective of this project is to better understand booking details, identify factors that affect bookings and cancellations in a city and resort hotel to reduce losses and maximize profit. This project would answer and cover the following:
+The objective of this project is to better understand booking details and identify factors that affect bookings and cancellations in a city and resort hotel to reduce losses and maximize profit. This project would answer and cover the following:
 
 •	What kind of guests have the highest number of bookings?
 
