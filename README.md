@@ -6,9 +6,13 @@
 The objective of this project is to better understand booking details, identify factors that affect bookings and cancellations in a city and resort hotel to reduce losses and maximize profit. This project would answer and cover the following:
 
 •	What kind of guests have the highest number of bookings?
+
 •	What months are the peak and low seasons for both hotels?
+
 •	What countries do most of the bookings come from?
+
 •	What factors affect cancellations?
+
 •	Recommendations 
 
 **DATA SOURCING**
@@ -17,12 +21,18 @@ The data was sourced from Kaggle: https://www.kaggle.com/datasets/jessemostipak/
 ![Screenshot (2)](https://user-images.githubusercontent.com/101478666/187205161-9a2bea73-7d97-4474-a8e0-72629b3fddf0.png)
 
 It was organized in a spreadsheet and could be accessed as a csv file. This data set contains 199,330 rows of booking information for a city hotel and a resort hotel and includes information such as when the booking was made, length of stay, lead time, cancellations and arrival date among others.
+
 ![Screenshot (6)](https://user-images.githubusercontent.com/101478666/187212598-14649a71-d8ba-4edd-97c6-8366cd3a74f1.png)
 
 
 
 The data cleaning and  visualizations were carried out using Power BI, where meaningful insights are created for storytelling to cover all the objectives. The first page contains a summary of hotel bookings, and the second page contains further analysis of cancellations.
-[Hotel Booking Analysis.pdf](https://github.com/Luret01/hotel-bookings/files/9444955/Hotel.Booking.Analysis.pdf)
+
+![page 1](https://user-images.githubusercontent.com/101478666/187220559-e75d231e-4d25-408b-b591-0ad00ab7af36.png)
+
+
+![page 2](https://user-images.githubusercontent.com/101478666/187221450-f5030254-040a-4d3d-9568-79f49f4cf888.png)
+
 
 
 **INSIGHTS AND RECOMMENDATIONS**
